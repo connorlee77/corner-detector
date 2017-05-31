@@ -85,5 +85,7 @@ ENV/
 # Spyder project settings
 .spyderproject
 
+*.jpg
+*.h5
 # Rope project settings
 .ropeproject
